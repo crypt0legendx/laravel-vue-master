@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Presale</h1>
+        <h1>Presale Page</h1>
         <p>
             <router-link :to="{ name: 'home' }">Home</router-link> |
             <router-link :to="{ name: 'hello' }">Hello World</router-link>
