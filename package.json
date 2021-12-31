@@ -34,6 +34,7 @@
         "@ethersproject/solidity": "^5.4.0",
         "@uniswap/sdk": "^3.0.3",
         "crypto-browserify": "^3.12.0",
+        "element-ui": "^2.15.6",
         "ethers": "^5.4.4",
         "https-browserify": "^1.0.0",
         "os-browserify": "^0.3.0",
